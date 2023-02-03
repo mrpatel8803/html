@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(201, 190, 190);
+  }
+
+table {
+    border-collapse: collapse;
+  }
+#form
+{
+  position: relative;
+  background: #ffffff;
+  box-shadow: 6px 6px 30px gray;
+  top: 20px;
+  left: 400px;
+  border: 2px  solid rgb(255, 255, 255);
+  border-radius: 10px;
+  height: 1050px;
+  width: 350px;
+}
+
+button
+{
+    background-color:#47afff;
+    font: inherit;
+    font-size: 100%;
+    width: 300px;
+    height: 30px;
+   
+}
+
+
+table
+{
+    border-color: black;
+}
+
