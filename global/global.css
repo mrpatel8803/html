@@ -1,0 +1,19 @@
+.header_image{
+    
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+.header{
+    display: flex;
+    flex-wrap:inherit;
+    
+    
+}
+.header_menu{
+    list-style: none;
+    display: flex;
+    align-content: space-between;
+    flex-direction: row;
+    
+}
